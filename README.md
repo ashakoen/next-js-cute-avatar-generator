@@ -157,4 +157,4 @@ As we continue to explore this new paradigm, the synergy between human expertise
 
 The efficiency and overall success of iterative AI-assisted development is still largely driven by the human's awareness of what is possible and which tool is best suited for each task. As AI tools continue to evolve, staying informed about their capabilities and limitations will become an increasingly important skill for developers.
 
-This article was generated with Claude Sonnet as part of demonstrating AI-assisted workflows in content creation and software development. The content has been reviewed and edited by me, but Claude did a great job with the first draft!
+This README was generated with Claude Sonnet as part of demonstrating AI-assisted workflows in content creation and software development. The content has been reviewed and edited by me, but Claude did a great job with the first draft!
